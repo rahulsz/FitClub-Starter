@@ -6,20 +6,20 @@ export const testimonialsData = [
   {
     image: image1,
     review:
-      "I made the right choice by choosing the Fitclub and by choosing the right plan and program I already achieved my ideal body!",
-    name: 'MATHEW HENDRICKSON',
-    status : 'ENTREPRENEUR'
+      "The fitness coach at Fitclub provided expert guidance and support, leading you to achieve your ideal body through the right plan and program.",
+    name: 'RAHUL ZANDENNAVAR',
+    status : 'COACH'
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
-    name: 'JOHN KEVIN',
-    status: 'COACH'
+    review: 'The fitness coach at Fitclub was exceptional, providing knowledgeable guidance and motivating support that helped me achieve my fitness goals. Their expertise and dedication made all the difference in my journey. ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
+    name: 'SATISH KOKANE',
+    status: 'CLIENT'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
-    name: 'FRANKLIN',
-    status: "CUSTOMER"
+    review:'One-to-one training offers a personalized fitness experience tailored to your specific goals and needs, allowing for individualized attention and maximum results. With dedicated focus and customized guidance, you can optimize your workouts and make significant progress towards your fitness aspirations. ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    name: 'SHAAN AND SWAGAT',
+    status: "CLIENTS"
   }
 ];
