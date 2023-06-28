@@ -12,13 +12,13 @@ export const testimonialsData = [
   },
   {
     image: image2,
-    review: 'The fitness coach at Fitclub was exceptional, providing knowledgeable guidance and motivating support that helped me achieve my fitness goals. Their expertise and dedication made all the difference in my journey. ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
+    review: 'The fitness coach at Fitclub was exceptional, providing knowledgeable guidance and motivating support that helped me achieve my fitness goals. Their expertise and dedication made all the difference in my journey. ',
     name: 'SATISH KOKANE',
     status: 'CLIENT'
   },
   {
     image : image3,
-    review:'One-to-one training offers a personalized fitness experience tailored to your specific goals and needs, allowing for individualized attention and maximum results. With dedicated focus and customized guidance, you can optimize your workouts and make significant progress towards your fitness aspirations. ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:'One-to-one training offers a personalized fitness experience tailored to your specific goals and needs, allowing for individualized attention and maximum results. With dedicated focus and customized guidance, you can optimize your workouts and make significant progress towards your fitness aspirations.',
     name: 'SHAAN AND SWAGAT',
     status: "CLIENTS"
   }
