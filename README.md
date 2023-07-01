@@ -54,5 +54,5 @@ To deploy this website on Cloudflare Pages, follow these steps:
 For more detailed information, you can refer to the [Cloudflare Pages documentation](https://developers.cloudflare.com/pages).
 
 ---
-
 [Visit the deployed app](https://3c63bd66.fitclubrahulshashidhar.pages.dev/)
+
