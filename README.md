@@ -39,35 +39,19 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However, we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Deployment
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To deploy this website on Cloudflare Pages, follow these steps:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Sign up for a Cloudflare account at [https://www.cloudflare.com/](https://www.cloudflare.com/).
+2. Create a new project in Cloudflare Pages.
+3. Connect your project to your GitHub repository or any other supported Git provider.
+4. Configure the build settings for your project, specifying the build command as `npm run build` and the build output directory as `build`.
+5. Once the build settings are configured, trigger a new build in Cloudflare Pages.
+6. Cloudflare Pages will automatically build and deploy your React app.
+7. After the build is complete, you will receive a deployment URL for your website.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+For more detailed information, you can refer to the [Cloudflare Pages documentation](https://developers.cloudflare.com/pages).
 
 ---
 
