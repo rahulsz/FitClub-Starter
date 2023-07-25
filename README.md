@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2023-07-17 152745_cleanup](https://github.com/rahulsz/FitClub-Starter/assets/130664248/b74dbbb6-5a4c-4c77-9e75-f5ca23586a5a)
+
 
 ## Available Scripts
 
